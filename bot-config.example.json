@@ -1,0 +1,5 @@
+{
+  "telegramToken": "YOUR_BOT_TOKEN_FROM_BOTFATHER",
+  "encryptionKey": "YOUR_SECRET_KEY_MIN_16_CHARS",
+  "allowedUsers": [123456789]
+}
